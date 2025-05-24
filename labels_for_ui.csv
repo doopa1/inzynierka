@@ -1,0 +1,25 @@
+column,ui_label
+city,Miasto
+squareMeters,Powierzchnia (m²)
+rooms,Liczba pokoi
+floor,Piętro
+floorCount,Liczba pięter w budynku
+ownership,Forma własności
+hasParkingSpace,Miejsce parkingowe
+hasBalcony,Balkon
+hasElevator,Winda
+hasSecurity,Ochrona
+buildYear,Rok budowy
+latitude,Szerokość geograficzna
+longitude,Długość geograficzna
+centreDistance,Odległość od centrum (km)
+pharmacyDistance,Odległość do apteki (m)
+clinicDistance,Odległość do przychodni (m)
+postOfficeDistance,Odległość do poczty (m)
+restaurantDistance,Odległość do restauracji (m)
+kindergartenDistance,Odległość do przedszkola (m)
+schoolDistance,Odległość do szkoły (m)
+collegeDistance,Odległość do uczelni (m)
+poiCount,"Liczba ważnych punktów w pobliżu (sklepy, szkoły etc.)"
+hasStorageRoom,Komórka lokatorska
+price,Cena (zł)
